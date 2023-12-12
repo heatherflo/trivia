@@ -9,14 +9,14 @@ class ObservableAppState extends EventEmitter {
 
 
   questions = [
-    new Question({
-      question: "What is real haggis made of?",
-      difficulty: "medium",
-    }),
-    new Question({
-      question: "What is the name of the very first video uploaded to YouTube?",
-      difficulty: "medium",
-    }),
+    // new Question({
+    //   question: "What is real haggis made of?",
+    //   difficulty: "medium",
+    // }),
+    // new Question({
+    //   question: "What is the name of the very first video uploaded to YouTube?",
+    //   difficulty: "medium",
+    // }),
 
   ]
 
